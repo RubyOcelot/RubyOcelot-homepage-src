@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: daily
+tags: test
 ---
 
 ## Lorem Ipsum

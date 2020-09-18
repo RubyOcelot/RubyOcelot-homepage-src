@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cp LICENSE _site/
+
 cd _site
 git init
 git config user.name "Travis CI"

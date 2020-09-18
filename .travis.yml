@@ -5,5 +5,5 @@ sudo: false
 script: bundle exec jekyll build --profile --trace
 
 after_success:
-  - chmod 777 deploy.sh
-  - ./deploy.sh
+  - chmod 777 _scripts/deploy.sh
+  - ./_scripts/deploy.sh

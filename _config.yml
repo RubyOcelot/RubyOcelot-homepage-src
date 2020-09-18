@@ -3,8 +3,9 @@ url: "" #Your url here
 baseurl: /
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Ruby_Ocelot's Home
+description: >
+  Homepage of Ruby_Ocelot
 google_verification: null
 
 
